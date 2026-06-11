@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "noticeId": "2026-06-11-001",
+  "title": "更新公告",
+  "notice": [
+    "欢迎使用如真似幻扩展。",
+    "这是 GitHub Pages 远程公告测试。"
+  ],
+  "downloadUrl": "",
+  "forceNotice": true,
+  "blockGame": false,
+  "blockReason": ""
+}
