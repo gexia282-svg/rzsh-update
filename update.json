@@ -1,13 +1,13 @@
 {
   "version": "1.0.0",
-  "noticeId": "2026-06-12-002",
+  "noticeId": "2026-06-12-003",
   "title": "更新公告",
   "notice": [
     "欢迎使用诗筏版无名杀懒人包。",
     "此次更新修复了无法进入游戏bug,同时更新了登陆界面和模式界面"
   ],
   "downloadUrl": "",
-  "forceNotice": false
+  "forceNotice": false,
   "blockGame": false,
   "blockReason": ""
 }
